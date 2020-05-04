@@ -110,6 +110,7 @@ ul {
 li {
   padding: 3px;
   border: 1px solid transparent;
+  min-width: 26px;
 }
 
 li:hover {
@@ -117,6 +118,7 @@ li:hover {
   border: 1px solid #f15f42;
   border-radius: 50%;
   font-weight: 500;
+  cursor: pointer;
 }
 
 a {
